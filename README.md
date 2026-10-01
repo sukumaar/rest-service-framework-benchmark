@@ -2,7 +2,7 @@
 
 Compare CPU usage, memory usage, cold start, and load capacity across eight REST service frameworks using equivalent endpoints and repeatable workloads.
 
-**Status:** Planning. This repository currently contains this README only. Services, benchmark scripts, and results have not been implemented.
+**Status:** In progress. Spring Boot and Quarkus sample services are implemented; remaining services, benchmark scripts, and results are pending.
 
 ## Frameworks
 
@@ -150,7 +150,7 @@ results/
 README.md
 ```
 
-Directories above are planned. Runnable setup and benchmark commands will be added alongside their implementations.
+Directories above are planned. Spring Boot and Quarkus now include runnable setup commands; remaining commands will be added alongside their implementations.
 
 ## Implementation checklist
 
